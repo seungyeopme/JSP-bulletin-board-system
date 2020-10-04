@@ -22,7 +22,7 @@ Screenshots
   <br><br>
   <img src="https://user-images.githubusercontent.com/43163696/95016110-e1982f00-068b-11eb-9459-f1ace63e37ea.png">
   <br><br>
-  <img src="https://user-images.githubusercontent.com/43163696/95015046-c0ccdb00-0685-11eb-8b39-67e7ba3597aa.png">
+  <img src="https://user-images.githubusercontent.com/43163696/95016167-2f149c00-068c-11eb-9a3a-c3e5e23de6a7.png">
   <br><br>
   <img src="https://user-images.githubusercontent.com/43163696/95015880-7e59cd00-068a-11eb-8bd0-874ec81cd54b.png">
   <br><br>
