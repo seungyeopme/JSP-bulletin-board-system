@@ -37,11 +37,8 @@ Screenshots
   <h3>作成した掲示物を修正します。</h3>
   <h3>작성한 게시물을 수정합니다.</h3>
   <img src="https://user-images.githubusercontent.com/43163696/95016308-34261b00-068d-11eb-82fb-809df0c161cd.png">
-  <hr>
   <img src="https://user-images.githubusercontent.com/43163696/95016454-042b4780-068e-11eb-945e-04d58b3c648d.png">
-  <hr>
   <img src="https://user-images.githubusercontent.com/43163696/95016580-c844b200-068e-11eb-8df9-c0f8737cea0c.png">
-  <hr>
   <img src="https://user-images.githubusercontent.com/43163696/95016639-2ffafd00-068f-11eb-8da9-580ffd673033.png">
   <hr>
   <img src="https://user-images.githubusercontent.com/43163696/95016681-7cded380-068f-11eb-8be4-792f560f9842.png">
