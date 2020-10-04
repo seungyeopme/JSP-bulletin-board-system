@@ -27,6 +27,7 @@ Screenshots
   <h3>회원관리 버튼을 누르면 현재 로그인 상태임을 확인할 수 있습니다. 이제 게시판에 들어갑니다.</h3>
   <img src="https://user-images.githubusercontent.com/43163696/95017110-3e96e380-0692-11eb-952c-23113feb87f1.png">
   <hr>
+  <h3>bulletin board writing 掲示板物書き 게시판 글쓰기</h3>
   <img src="https://user-images.githubusercontent.com/43163696/95016046-8108f200-068b-11eb-8757-c7b16a4f4bc4.png">
   <hr>
   <img src="https://user-images.githubusercontent.com/43163696/95016110-e1982f00-068b-11eb-9459-f1ace63e37ea.png">
