@@ -1,10 +1,10 @@
 # JSP-bulletin-board-system
-<h6>This is a JSP website created with bootstrap. It was developed using minimal simple logic. We used bootstrap as a design template.  
+<h5>This is a JSP website created with bootstrap. It was developed using minimal simple logic. We used bootstrap as a design template.</h5>
 
-このウェブサイトはブートストラップで作ったJSPウェブサイトです。 最小限の簡単なロジックだけを利用して開発しました。 デザインテンプレートとしては、ブートストラップを利用しています。  
+<h5>このウェブサイトはブートストラップで作ったJSPウェブサイトです。 最小限の簡単なロジックだけを利用して開発しました。 デザインテンプレートとしては、ブートストラップを利用しています。</h5> 
 
-이 웹사이트는 부트스트랩으로 만든 JSP 웹 사이트입니다. 최소한의 간단한 로직만을 이용해서 개발했습니다. 디자인 템플릿으로는 부트스트랩을 이용했습니다.
-</h6>
+<h5>이 웹사이트는 부트스트랩으로 만든 JSP 웹 사이트입니다. 최소한의 간단한 로직만을 이용해서 개발했습니다. 디자인 템플릿으로는 부트스트랩을 이용했습니다.</h5>
+
 <h2>Screenshots</h2>
 -----------
 <div>
