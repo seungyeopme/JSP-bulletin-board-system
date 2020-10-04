@@ -8,6 +8,7 @@ This is a JSP website created with bootstrap. It was developed using minimal sim
 Screenshots
 -----------
 <div>
+  <h3>메인 페이지 メーンページ</h3>
   <img src="https://user-images.githubusercontent.com/43163696/95014958-659ae880-0685-11eb-92a2-f48a0ede6223.PNG">
   <hr>
   <img src="https://user-images.githubusercontent.com/43163696/95015007-967b1d80-0685-11eb-8985-09eb92b2c3bb.png">
