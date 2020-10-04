@@ -14,9 +14,13 @@ Screenshots
   <h3>sign up 会員加入 회원가입</h3>
   <img src="https://user-images.githubusercontent.com/43163696/95015007-967b1d80-0685-11eb-8985-09eb92b2c3bb.png">
   <br><br>
+  <center>
   <img src="https://user-images.githubusercontent.com/43163696/95015016-9bd86800-0685-11eb-9f86-21d859cc0762.PNG">
+  </center>
   <br><br>
+  <center>
   <img src="https://user-images.githubusercontent.com/43163696/95015025-a4c93980-0685-11eb-86b4-84a49d9c7f8a.png">
+  </center>
   <hr>
   <img src="https://user-images.githubusercontent.com/43163696/95016962-646fb880-0691-11eb-8875-d8e7b50cad89.png">
   <hr>
