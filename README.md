@@ -29,11 +29,8 @@ Screenshots
   <hr>
   <h3>bulletin board writing 掲示板物書き 게시판 글쓰기</h3>
   <img src="https://user-images.githubusercontent.com/43163696/95016046-8108f200-068b-11eb-8757-c7b16a4f4bc4.png">
-  <hr>
   <img src="https://user-images.githubusercontent.com/43163696/95016110-e1982f00-068b-11eb-9459-f1ace63e37ea.png">
-  <hr>
   <img src="https://user-images.githubusercontent.com/43163696/95016167-2f149c00-068c-11eb-9a3a-c3e5e23de6a7.png">
-  <hr>
   <img src="https://user-images.githubusercontent.com/43163696/95015880-7e59cd00-068a-11eb-8bd0-874ec81cd54b.png">
   <hr>
   <img src="https://user-images.githubusercontent.com/43163696/95016308-34261b00-068d-11eb-82fb-809df0c161cd.png">
