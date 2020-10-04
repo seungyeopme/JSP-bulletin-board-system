@@ -51,4 +51,5 @@
   <h5>本当に削除しますか。</h5>
   <p align="center"><img src="https://user-images.githubusercontent.com/43163696/95016861-bd8b1c80-0690-11eb-965d-39be1a0d2056.png"></p>
   <img src="https://user-images.githubusercontent.com/43163696/95016883-e4e1e980-0690-11eb-9d03-fe72d1ab0454.PNG">
+  <h4>References: https://youtu.be/wEIBDHfoMBg?list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6</h4>
 </div>
