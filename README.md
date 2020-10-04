@@ -33,6 +33,9 @@ Screenshots
   <img src="https://user-images.githubusercontent.com/43163696/95016167-2f149c00-068c-11eb-9a3a-c3e5e23de6a7.png">
   <img src="https://user-images.githubusercontent.com/43163696/95015880-7e59cd00-068a-11eb-8bd0-874ec81cd54b.png">
   <hr>
+  <h3>Modify the post you created.</h3>
+  <h3>作成した掲示物を修正します。</h3>
+  <h3>작성한 게시물을 수정합니다.</h3>
   <img src="https://user-images.githubusercontent.com/43163696/95016308-34261b00-068d-11eb-82fb-809df0c161cd.png">
   <hr>
   <img src="https://user-images.githubusercontent.com/43163696/95016454-042b4780-068e-11eb-945e-04d58b3c648d.png">
