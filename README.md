@@ -24,7 +24,7 @@ Screenshots
   <br><br>
   <img src="https://user-images.githubusercontent.com/43163696/95015046-c0ccdb00-0685-11eb-8b39-67e7ba3597aa.png">
   <br><br>
-  <img src="https://user-images.githubusercontent.com/43163696/95015052-c6c2bc00-0685-11eb-82c5-710ae3886dc3.png">
+  <img src="https://user-images.githubusercontent.com/43163696/95015880-7e59cd00-068a-11eb-8bd0-874ec81cd54b.png">
   <br><br>
   <img src="https://user-images.githubusercontent.com/43163696/95015056-d510d800-0685-11eb-9488-a52b77fad9c5.png">
   <br><br>
