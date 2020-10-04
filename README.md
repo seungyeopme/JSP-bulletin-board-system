@@ -8,5 +8,5 @@ This is a JSP website created with bootstrap. It was developed using minimal sim
 Screenshots
 -----------
 <div>
-  <img width="800" height="800" src="https://user-images.githubusercontent.com/43163696/95014958-659ae880-0685-11eb-92a2-f48a0ede6223.PNG">
+  <img src="https://user-images.githubusercontent.com/43163696/95014958-659ae880-0685-11eb-92a2-f48a0ede6223.PNG">
 </div>
