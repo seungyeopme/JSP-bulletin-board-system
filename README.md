@@ -9,7 +9,7 @@ Screenshots
 -----------
 <div>
   <img src="https://user-images.githubusercontent.com/43163696/95014958-659ae880-0685-11eb-92a2-f48a0ede6223.PNG">
-  <br><br>
+  <hr>
   <img src="https://user-images.githubusercontent.com/43163696/95015007-967b1d80-0685-11eb-8985-09eb92b2c3bb.png">
   <br><br>
   <img src="https://user-images.githubusercontent.com/43163696/95015016-9bd86800-0685-11eb-9f86-21d859cc0762.PNG">
