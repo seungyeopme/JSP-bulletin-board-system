@@ -20,7 +20,7 @@ Screenshots
   <hr>
   <h3>Login ログイン 로그인</h3>
   <img src="https://user-images.githubusercontent.com/43163696/95016962-646fb880-0691-11eb-8875-d8e7b50cad89.png">
-  <img src="https://user-images.githubusercontent.com/43163696/95017007-a39e0980-0691-11eb-9008-f594fa619c0e.PNG">
+  <p align="center"><img src="https://user-images.githubusercontent.com/43163696/95017007-a39e0980-0691-11eb-9008-f594fa619c0e.PNG"></p>
   <hr>
   <h3>You can confirm that you are currently logged in. You are now entering the bulletin board.</h3>
   <h3>会員管理ボタンを押すと、現在ログイン状態であることが確認できます。 これから掲示板に入ります。</h3>
